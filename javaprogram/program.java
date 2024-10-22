@@ -2,6 +2,6 @@
 {
         public static void main(string[] args)
           {
-               system.out.print("Sneha");
+               system.out.println("Sneha");
            }
 }
